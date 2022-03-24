@@ -5,7 +5,6 @@
 
 [![作者](https://img.shields.io/badge/作者-Colorfulshadow-blue.svg)](https://github.com/colorfulshadow)
 [![许可证](https://img.shields.io/badge/许可证-GPLv3-orange.svg)](LICENSE)
-![版本](https://img.shields.io/badge/版本-1.0.0-green.svg)
 
 ## 本文目录 Contents
 - [作者简介](#作者简介)
